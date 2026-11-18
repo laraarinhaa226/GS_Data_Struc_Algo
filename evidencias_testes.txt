@@ -1,0 +1,47 @@
+ # | Teste                                                | Resultado
+---------------------------------------------------------------------------
+ 1 | Consultar com lista vazia                            | PASSOU
+ 2 | Pesquisar com lista vazia                            | PASSOU
+ 3 | Excluir com lista vazia                              | PASSOU
+ 4 | Atualizar com lista vazia                            | PASSOU
+ 5 | Ordenar com lista vazia                              | PASSOU
+ 6 | Carregar 5 exemplos                                  | PASSOU
+ 7 | Tamanho após exemplos                                | PASSOU
+ 8 | Cadastro válido                                      | PASSOU
+ 9 | Tamanho após cadastro                                | PASSOU
+10 | Consulta por ID existente                            | PASSOU
+11 | Pesquisa por categoria (ignora caixa)                | PASSOU
+12 | Pesquisa por título (substring)                      | PASSOU
+13 | Atualização válida                                   | PASSOU
+14 | Atualização com campo em branco mantém valor         | PASSOU
+15 | Ordenar por ID                                       | PASSOU
+16 | Ordenar por título                                   | PASSOU
+17 | Ordenar por categoria                                | PASSOU
+18 | Ordenação estável (empate preserva ordem anterior)   | PASSOU
+19 | Inserir após ordenar (ponteiro fim correto)          | PASSOU
+20 | Quantidade por categoria                             | PASSOU
+21 | Excluir primeiro nó                                  | PASSOU
+22 | Excluir nó do meio                                   | PASSOU
+23 | Excluir último nó                                    | PASSOU
+24 | Inserir após excluir último (fim correto)            | PASSOU
+25 | Esvaziar a lista                                     | PASSOU
+26 | Tamanho zero após esvaziar                           | PASSOU
+27 | Cadastrar em lista que foi esvaziada                 | PASSOU
+28 | ID duplicado                                         | PASSOU
+29 | ID não numérico                                      | PASSOU
+30 | ID negativo                                          | PASSOU
+31 | ID zero                                              | PASSOU
+32 | ID vazio                                             | PASSOU
+33 | Título vazio                                         | PASSOU
+34 | Categoria vazia                                      | PASSOU
+35 | Consultar ID inexistente                             | PASSOU
+36 | Consultar ID inválido                                | PASSOU
+37 | Pesquisa sem resultado                               | PASSOU
+38 | Pesquisa com termo vazio                             | PASSOU
+39 | Pesquisa com atributo inválido                       | PASSOU
+40 | Atualizar ID inexistente                             | PASSOU
+41 | Excluir ID inexistente                               | PASSOU
+42 | Ordenação com critério inválido                      | PASSOU
+43 | Tamanho intacto após operações inválidas             | PASSOU
+---------------------------------------------------------------------------
+43/43 testes passaram.
